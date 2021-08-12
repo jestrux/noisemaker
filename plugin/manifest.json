@@ -1,0 +1,29 @@
+{
+    "id": "0bd2c41e",
+    "name": "Noisemaker",
+    "version": "1.0.0",
+    "author": "Walter Kimaro",
+    "host": {
+        "app": "XD",
+        "minVersion": "21.0"
+    },
+    "icons": [
+        {
+            "width": 24,
+            "height": 24,
+            "path": "images/icon@1x.png"
+        },
+        {
+            "width": 48,
+            "height": 48,
+            "path": "images/icon@2x.png"
+        }
+    ],
+    "uiEntryPoints": [
+        {
+            "type": "panel",
+            "label": "Noisemaker",
+            "panelId": "svelte"
+        }
+    ]
+}
