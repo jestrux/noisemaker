@@ -58,7 +58,7 @@
     src="{image}" alt="" 
   />
 
-  <div class="flex items-center justify-between mt-3 pt-1">
+  <div class="flex items-center justify-between mt-3 pt-2">
     <!-- svelte-ignore a11y-label-has-associated-control -->
     <label class="text-md">Density</label>
 
@@ -69,7 +69,7 @@
     />
   </div>
 
-  <div class="flex items-center justify-between mt-3 pt-1">
+  <div class="flex items-center justify-between mt-3 pt-3">
     <!-- svelte-ignore a11y-label-has-associated-control -->
     <label class="text-md">Contrast</label>
 
@@ -80,7 +80,7 @@
     />
   </div>
 
-  <div class="mt-3 pt-1">
+  <div class="mt-3 pt-2">
     <div class="button" uxp-variant="cta"
       on:click={() => applyNoise(image)}
     >

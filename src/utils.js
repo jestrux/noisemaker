@@ -1,10 +1,3 @@
-function getDomFromString(str){
-    var domEl = document.createElement('div');
-    domEl.innerHTML = str;
-
-    return domEl.firstChild;
-}
-
 function editDom(cb, wrapWithEditor = true){
     const invisibleButton = document.createElement("button");
     invisibleButton.innerText = "Invisible button";
@@ -64,7 +57,6 @@ function getDimensions(node) {
 }
 
 module.exports = {
-    getDomFromString,
     editDom,
     placeInParent,
     getDimensions
