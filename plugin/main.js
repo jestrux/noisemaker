@@ -4,7 +4,7 @@ module.exports = {
     panels: {
         svelte: {
             show() {
-                if (!app) {
+                if (!app && document.querySelector("#appWrapper") == null) {
                     try {
                         const create = require("./index").default;
                         console.log("Create: ", document.body, create);

@@ -51,7 +51,7 @@
   }
 </script>
 
-<div class="mt-3 pt-1 px-12px">
+<div id="appWrapper" class="mt-3 pt-1 px-12px">
   <h2 class="mb-3">Noise Maker</h2>
   <img class="border rounded-sm object-cover w-full" 
     style="height: 150px;"
