@@ -20,6 +20,7 @@ module.exports = {
     application: 'commonjs2 application',
     commands: 'commonjs2 commands',
     assets: 'commonjs2 assets',
+    viewport: 'commonjs2 viewport',
     scenegraph: 'commonjs2 scenegraph'
   },
   module: {

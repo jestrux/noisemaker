@@ -2,9 +2,12 @@
 
 Noise plugin for Adobe XD
 
-## Screenshot
+## Screenshots
 
-![Noise Maker screenshot](/screenshot.png?raw=true "Noise Maker screenshot")
+![Noise Maker screenshot](/screenshots/1.png?raw=true "Noise Maker screenshot 1")
+
+
+![Noise Maker screenshot](/screenshots/2.png?raw=true "Noise Maker screenshot 2")
 
 ## Contributing
 
